@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 $primary-color:#01161E;
-$primary-color:#6B717E;
-$secondary-color: #49D49D;
-$tertiary-color: #F7F7FF;
+$secondary-color:#6B717E;
+$tertiary-color: #49D49D;
+$quaternary-color: #F7F7FF;
+
+p {
+    font-family: 'Raleway' ;
+    color: $secondary-color;
+}
